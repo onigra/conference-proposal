@@ -1,6 +1,7 @@
 ## カンファレンス概要
 
 - ホームページ: https://2025.emconf.jp/
+- 提出したプロポーザル: https://fortee.jp/emconf-2025/proposal/9958be0a-e8c2-4762-a0bc-fcc34d2a534c
 
 ### コンテキスト
 
